@@ -1,6 +1,6 @@
 {
   "name": "universal-decorators-complete",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🚀 Complete 17 Universal JavaScript Decorators - Works everywhere: React, Vue, Angular, Node.js, Browser, TypeScript, Web Workers",
   "main": "index.js",
   "module": "index.js",
@@ -185,10 +185,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AliPluss/universal-decorators-complete.git"
+    "url": "git+https://github.com/AliPluss/decoration.git"
   },
   "bugs": {
-    "url": "https://github.com/AliPluss/universal-decorators-complete/issues"
+    "url": "https://github.com/AliPluss/decoration/issues"
   },
-  "homepage": "https://github.com/AliPluss/universal-decorators-complete#readme"
+  "homepage": "https://github.com/AliPluss/decoration#readme"
 }
