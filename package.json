@@ -1,6 +1,6 @@
 {
   "name": "universal-decorators-complete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 Complete 17 Universal JavaScript Decorators - Works everywhere: React, Vue, Angular, Node.js, Browser, TypeScript, Web Workers",
   "main": "index.js",
   "module": "index.js",
